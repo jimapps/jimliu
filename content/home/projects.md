@@ -1,8 +1,8 @@
 +++
 # Projects widget.
 widget = "projects"
-active = false
-date = "2016-04-20T00:00:00"
+active = true
+date = "2018-02-27T00:00:00"
 
 title = "Projects"
 subtitle = ""
@@ -41,4 +41,12 @@ filter_default = 0
 #   tag = ".demo"
 
 +++
+
+## How does social orientation influence firm innovation?
+- With R. Chao
+- $5,000, Batten Institute Fellows Program, University of Virginia, 2016-2017.
+
+## Sustainable and responsible design and management of global supply chains: Designing work and improving working conditions in supplier factories in developing countries.
+- With R. Chao
+- $30,500, Wells Fargo Foundation - Sustainability Research Grant Program, University of Minnesota, 2015-2016.
 
