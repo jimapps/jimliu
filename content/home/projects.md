@@ -47,6 +47,6 @@ filter_default = 0
 - $5,000, Batten Institute Fellows Program, University of Virginia, 2016-2017.
 
 ## Sustainable and responsible design and management of global supply chains: Designing work and improving working conditions in supplier factories in developing countries.
-- With R. Chao
+- With A. Mishra, S.M. Goldstein, K.K. Sinha 
 - $30,500, Wells Fargo Foundation - Sustainability Research Grant Program, University of Minnesota, 2015-2016.
 
