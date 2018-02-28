@@ -1,11 +1,17 @@
 #!/bin/sh
 
-echo "\033[0;32mDeploying updates to GitHub...\033[0m"
+
+echo "\033[0;32mUpdating jimapps/jimliu codes to GitHub...\033[0m"
 
 git add .
 msg="update site code `date`"
 git commit -m "$msg"
 git push origin master
+
+echo "#---------------------------#"
+
+
+echo "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # Build the project.
 hugo # if using a theme, replace by `hugo -t <yourtheme>`
