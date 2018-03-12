@@ -17,7 +17,7 @@ authors = ["X. Liu", "A. Mishra", "S.M. Goldstein", "K.K. Sinha"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Manufacturing and Service Operations Management(MSOM)*"
+publication = "In *Manufacturing and Service Operations Management (MSOM)*"
 #publication_short = "In *MSOM*, 2018"
 
 # Abstract and optional shortened version.
