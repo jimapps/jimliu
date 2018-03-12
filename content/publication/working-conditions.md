@@ -43,12 +43,13 @@ url_pdf = "http://www.darden.virginia.edu/uploadedFiles/Towards%20Improving%20Fa
 #url_slides = "#"
 #url_poster = "#"
 #url_source = "#"
-url_dataset = "http://www.bangladeshworkersafety.org/"
+url_dataset = "https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi:10.18130/V3/SXNUE1"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 
 url_custom = [
+{name="Dataset1", url="http://www.bangladeshworkersafety.org"},
 {name="Dataset2", url="http://bangladeshaccord.org/"},
 {name = "Media Coverage 1", url = "http://www.startribune.com/lee-schafer-retailers-do-care-what-happens-in-far-off-apparel-factories/468161183/"},
 {name = "Media Coverage 2", url = "https://www.youtube.com/watch?v=2bVbZwyK6zE&feature=youtu.be"}
