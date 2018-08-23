@@ -51,8 +51,9 @@ url_dataset = "https://dataverse.lib.virginia.edu/dataset.xhtml?persistentId=doi
 url_custom = [
 {name="Dataset1", url="http://www.bangladeshworkersafety.org"},
 {name="Dataset2", url="http://bangladeshaccord.org/"},
-{name = "Media Coverage 1", url = "http://www.startribune.com/lee-schafer-retailers-do-care-what-happens-in-far-off-apparel-factories/468161183/"},
-{name = "Media Coverage 2", url = "https://www.youtube.com/watch?v=2bVbZwyK6zE&feature=youtu.be"}
+{name = "Media Coverage - StarTribune", url = "http://www.startribune.com/lee-schafer-retailers-do-care-what-happens-in-far-off-apparel-factories/468161183/"},
+{name = "Media Coverage - Carlson School", url = "https://www.youtube.com/watch?v=2bVbZwyK6zE&feature=youtu.be"},
+{name = "Media Coverage - M&SOM Review", url = "https://www.informs.org/Blogs/M-SOM-Blogs/M-SOM-Review/Designing-and-Sustaining-Socially-Responsible-Global-Supply-Chains-Lessons-from-Bangladesh"}
 ] 
 
 # Does the content use math formatting?

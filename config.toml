@@ -51,16 +51,18 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Xiaojin (Jim) Liu"
-  role = "Post-doctoral Senior Researcher"
+  role = "Assistant Professor"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Darden School of Business, University of Virginia", url = "https://www.darden.virginia.edu/" } ]
+  organizations = [ { name = "Supply Chain Management and Analytics" },
+  { name = "School of Business", url = "https://business.vcu.edu/" }, 
+{ name = "Virginia Commonwealth University", url = "https://www.vcu.edu/" }  ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "XiaojinLiu_S.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "liux@darden.virginia.edu"
-  address = "100 Darden Boulevard, Charlottesville, VA 22903, USA"
+  email = "xliu22@vcu.edu"
+  address = "301 West Main Street, Richmond, Virginia 23284-4000, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
   #phone = "888 888 88 88"
   #skype = "echo123"
@@ -94,9 +96,9 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   map_api_key = ""
-  latitude = "38.0524"
-  longitude = "-78.5147"
-  zoom = 13
+  latitude  = "37.544647"
+  longitude = "-77.447419"
+  zoom = 6
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
