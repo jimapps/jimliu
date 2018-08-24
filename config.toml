@@ -242,6 +242,7 @@ defaultContentLanguageInSubdir = false
     link = "//github.com/jimapps"
 
 
+	
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
@@ -255,6 +256,11 @@ defaultContentLanguageInSubdir = false
   url = "#about"
   weight = 1
 
+[[menu.main]]
+   name = "CV"
+   url = "/files/cv_xiaojin.pdf"
+   weight = 2
+   
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
@@ -270,15 +276,17 @@ defaultContentLanguageInSubdir = false
   url = "#projects"
   weight = 4
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 6
+  
+
 
 # Taxonomies.
 [taxonomies]
