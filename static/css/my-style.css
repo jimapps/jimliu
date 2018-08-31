@@ -6,3 +6,11 @@
   border-radius: 10%;
   background-size: cover;
 }
+
+.home-section {
+    background-color: rgb(255, 255, 255);
+    padding: 20px 0 20px 0;
+    animation: intro 0.3s both;
+        animation-delay: 0s;
+    animation-delay: 0.15s;
+}
